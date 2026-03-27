@@ -26,5 +26,5 @@ const buttonStyle = {
   backgroundColor: '#0070f3',
   color: 'white',
   border: 'none',
-  border-radius: '5px'
+  borderRadius: '5px' // <--- 이 부분이 수정되었습니다.
 };
